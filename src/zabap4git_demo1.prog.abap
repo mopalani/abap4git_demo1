@@ -3,5 +3,6 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT ZABAP4GIT_DEMO1.
-write 'Hello abapGit World.!'.
+REPORT zabap4git_demo1.
+WRITE 'Hello abapGit World.!'.
+WRITE 'change after my first commit'.
